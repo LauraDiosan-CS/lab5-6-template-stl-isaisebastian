@@ -1,0 +1,5 @@
+A230 Ciocolata 5.0
+A231 CocaCola 3.5
+A232 Croissant 2.0
+A233 Bake Rolls 4.5
+A234 Snickers 3.5
